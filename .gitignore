@@ -13,6 +13,7 @@ Saved_Articles.*
 *.exe
 *.o
 *.so
+*.pyc
 
 # Packages #
 ############
