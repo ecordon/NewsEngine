@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 Webcrawling Engine tailored towards news topics
 Created for our news aggregator startup Wintria: http://wintria.com    Please Visit :)
         -- By Lucas Ou-Yang and Evan O'Keeffe, UCI Students. April 6th, 2013.
@@ -33,4 +31,3 @@ NewsEngine
 ==========
 
 Simple Webcrawling Engine tailored towards news topics. Created for our news aggregator startup Wintria: http://wintria.com Please Visit :)   
->>>>>>> d8defea92bcc47c88029f7edb1fc9319512b3052
