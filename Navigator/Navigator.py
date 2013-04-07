@@ -25,8 +25,8 @@ from NewsWebsite import NewsWebsite
 from EngineConstants import POSITIVES, NEGATIVES
 import google as g
 
-GOOGLE_API_KEY = "AIzaSyBCZkqhUB9yO4UwcWIm6-t1MmSToffa3mQ"
-GOOGLE_CUSTOM_ID = "007585388310842507237:nvbcrdqtd4u"
+GOOGLE_API_KEY = "Your Key Here"
+GOOGLE_CUSTOM_ID = "Your ID Here"
 
 # This method is guaranteed to work because we are using Google's official search API
 # However, it's very limited and weak. We will alongside this use a much more
