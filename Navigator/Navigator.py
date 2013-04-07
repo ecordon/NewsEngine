@@ -7,12 +7,12 @@
 
     The goal is to implement niche detection in this module.
 
-    Browser API Key:    AIzaSyBCZkqhUB9yO4UwcWIm6-t1MmSToffa3mQ
+    Browser API Key:    Your key here
 
     Google Custom Search:
     =================================================
-    Name:               Wintria News
-    Unique ID/Key:      007585388310842507237:nvbcrdqtd4u
+    Name:               Ex. Wintria News
+    Unique ID/Key:      Your id here
 
 """
 _author__ = "Lucas Ou-Yang, Evan O'Keeffe"
