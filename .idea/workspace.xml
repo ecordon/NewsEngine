@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4410056-5967-4207-af7a-82bc6b42f8ec" name="Default" comment="" />
+    <ignored path="NewsEngine.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Retriever.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1362301280956" ignored="false" />
+    <file path="/Seeker.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365318937225" ignored="false" />
+    <file path="/Python Console" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365333163498" ignored="false" />
+    <file path="/Link.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365326775503" ignored="false" />
+    <file path="/yahoocrawler.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361145368548" ignored="false" />
+    <file path="/genericcrawler.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361205532078" ignored="false" />
+    <file path="/googlecrawler.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361213893553" ignored="false" />
+    <file path="/GenericCrawler.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1362338757292" ignored="false" />
+    <file path="/EngineConstants.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365220052797" ignored="false" />
+    <file path="/NewsEngine.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365333304046" ignored="false" />
+    <file path="/GoogleCrawler.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365180737920" ignored="false" />
+    <file path="$USER_HOME$/Desktop/MiguelsLab4/GradeBook.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361787833139" ignored="false" />
+    <file path="/GradeBook.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361787793146" ignored="false" />
+    <file path="$USER_HOME$/Desktop/MiguelsLab4/TesetGradeBook" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361785122080" ignored="false" />
+    <file path="$USER_HOME$/Desktop/MiguelsLab4/GUI.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361836377223" ignored="false" />
+    <file path="/GUI.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1361836374789" ignored="false" />
+    <file path="/Navigator_Backup.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1362339511997" ignored="false" />
+    <file path="/NewsWebsite.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365315482095" ignored="false" />
+    <file path="/Navigator.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365331265861" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/templates/base.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365323711299" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/templates/static/js/wint-custom-61.js" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364193815456" ignored="false" />
+    <file path="/wint-custom-61.js" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364193471121" ignored="false" />
+    <file path="$PROJECT_DIR$/../Article/templatetags/article_extras.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364195918792" ignored="false" />
+    <file path="/article_extras.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364195918792" ignored="false" />
+    <file path="$PROJECT_DIR$/../Article/views.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364196043603" ignored="false" />
+    <file path="/views.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364196043603" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../PythonWorkspace/PyAlgorithmLibrary/Combinations/Permutations.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364603591800" ignored="false" />
+    <file path="/Permutations.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364603581607" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../PythonWorkspace/PyAlgorithmLibrary/Competitive/__init__.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364533410871" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../PythonWorkspace/PyAlgorithmLibrary/Competitive/HackerRank/SavePrincess.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364545592262" ignored="false" />
+    <file path="/SavePrincess.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364545591903" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../PythonWorkspace/PyAlgorithmLibrary/Competitive/HackerRank/BotClean.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364550328501" ignored="false" />
+    <file path="/BotClean.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364550322700" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../PythonWorkspace/PyAlgorithmLibrary/Competitive/HackerRank/KingdomConnect.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364759109000" ignored="false" />
+    <file path="/KingdomConnect.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364757205140" ignored="false" />
+    <file path="/a.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1364809519541" ignored="false" />
+    <file path="/MaxSubSequence.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365328723619" ignored="false" />
+    <file path="/DataMiner.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365317717895" ignored="false" />
+    <file path="/TrendingExtract.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365318101255" ignored="false" />
+    <file path="/EasyUnicode.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365319222363" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/views.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365319334608" ignored="false" />
+    <file path="$PROJECT_DIR$/../docs/deps.txt" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365321263288" ignored="false" />
+    <file path="/tasks.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365325196607" ignored="false" />
+    <file path="$PROJECT_DIR$/../Article/tasks.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365325196607" ignored="false" />
+    <file path="/base.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365360539100" ignored="false" />
+    <file path="/README.md" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365358118290" ignored="false" />
+    <file path="/senderFTP.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365330562362" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/templates/about.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365333961598" ignored="false" />
+    <file path="/about.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365359704704" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/Wintria/templates/base.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365360717107" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/Wintria/templates/about.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365359704704" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/Wintria/templates/archives.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365360741953" ignored="false" />
+    <file path="/archives.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365360740987" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/Wintria/templates/splash.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365360774417" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/Wintria/templates/home.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365360996407" ignored="false" />
+    <file path="/home.html" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365360996003" ignored="false" />
+    <file path="$PROJECT_DIR$/../Wintria/Wintria/settings.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365361173325" ignored="false" />
+    <file path="/settings.py" changelist="e4410056-5967-4207-af7a-82bc6b42f8ec" time="1365361172722" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="1" selection-end="213" vertical-scroll-proportion="0.016718913">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewsEngine.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsEngine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="21" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Navigator.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Navigator/Navigator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="113" column="33" selection-start="4149" selection-end="4149" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxSubSequence.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MaxSubSequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="38" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/NewsWebsite.py" />
+        <option value="$PROJECT_DIR$/Navigator/GenericCrawler.py" />
+        <option value="$PROJECT_DIR$/Navigator/GoogleCrawler.py" />
+        <option value="$PROJECT_DIR$/Navigator/EngineConstants.py" />
+        <option value="$PROJECT_DIR$/Navigator/NewsWebsite.py" />
+        <option value="$PROJECT_DIR$/TrendingExtract.py" />
+        <option value="$PROJECT_DIR$/DataMiner.py" />
+        <option value="$PROJECT_DIR$/Seeker.py" />
+        <option value="$PROJECT_DIR$/Link.py" />
+        <option value="$PROJECT_DIR$/EasyUnicode.py" />
+        <option value="$PROJECT_DIR$/MaxSubSequence.py" />
+        <option value="$PROJECT_DIR$/senderFTP.py" />
+        <option value="$PROJECT_DIR$/Navigator/Navigator.py" />
+        <option value="$PROJECT_DIR$/NewsEngine.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="22" />
+    <option name="width" value="1612" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Navigator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\Dropbox\Programming\WebDev\Wintria\NewsEngine\Navigator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.senderFTP">
+    <configuration default="false" name="MaxSubSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MaxSubSequence.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NewsEngine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NewsEngine.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Seeker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seeker.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GoogleCrawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Navigator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Navigator/GoogleCrawler.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="senderFTP" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/senderFTP.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Navigator" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Navigator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="NewsEngine" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Navigator/Navigator.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.MaxSubSequence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.NewsEngine" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Seeker" />
+      <item index="3" class="java.lang.String" itemvalue="Python.GoogleCrawler" />
+      <item index="4" class="java.lang.String" itemvalue="Python.senderFTP" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Navigator" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.NewsEngine" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Seeker" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MaxSubSequence" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GoogleCrawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4410056-5967-4207-af7a-82bc6b42f8ec" name="Default" comment="" />
+      <created>1359865152146</created>
+      <updated>1359865152146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="22" width="1612" height="1007" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18486352" sideWeight="0.30964467" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18486352" sideWeight="0.68324876" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39898476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18176255" sideWeight="0.32126698" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36085972" sideWeight="0.49571604" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31675127" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MaxSubSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="21" selection-start="3224" selection-end="3228" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigator/EngineConstants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.06687565" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/BeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1188" column="0" selection-start="45393" selection-end="45393" vertical-scroll-proportion="0.3322785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigator/NewsWebsite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="63" selection-start="208" selection-end="208" vertical-scroll-proportion="0.17364341" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataMiner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="19" selection-start="263" selection-end="266" vertical-scroll-proportion="0.29767442" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EasyUnicode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="67" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Saved_Articles.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seeker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrendingExtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="340" selection-end="340" vertical-scroll-proportion="0.27286822" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsEngine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="21" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigator/Navigator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="33" selection-start="4149" selection-end="4149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxSubSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="38" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="213" vertical-scroll-proportion="0.016718913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
